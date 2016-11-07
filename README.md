@@ -13,7 +13,7 @@ Our project involves an expensive interest point detection and solving a medium-
 ## The Challenge
 Classical 3D reconstruction methods, e.g. bundle adjustment, generally consume huge computation to solve a large non-linear system and does not scale well to mobile devices.
 However, one of Structure from Motion algorithm, Tomasi-Kanade factorization utilizes SVD decomposition and estimates the 3D shape by solving a linear system instead.
-In this project, I will implement the entire pipline including interest point detection and 3D inversion, and further adjust them to fit mobile computing by taking advantage of computational speedups available on iOS device.
+The challenge of this project is to implement the entire pipline including interest point detection and 3D inversion, and to adjust them to fit mobile computing by taking advantage of computational speedups available on iOS device.
 
 ## Goals & Deliverables
 I plan to use a sequence of images either prepared or captured by device's camera to achieve 3D reconstruction.
