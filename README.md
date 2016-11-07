@@ -3,7 +3,7 @@
 Using a smartphone as a 3D scanner, Chen Kong.
 
 ## Summary
-In this project, I plan to utilize inteset point detection, RANSAC and Tomasi-Kanade factorization algorithms to arm a smartphone with 3D scanning ability. This projection is focusing on 3D reconstruction problem, more specifically Structure from Motion.
+In this project, I plan to utilize interest point detection, RANSAC and Tomasi-Kanade factorization algorithms to make a smartphone work as a 3D scanner. This projection is focusing on 3D reconstruction problem, more specifically Structure from Motion.
 
 ## Background
 My porject will take advantage of Accelerate Framework, BRIEF and armadillo to speed up the application.
