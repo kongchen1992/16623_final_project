@@ -1,6 +1,6 @@
 # Final Projection for the course 16623
 ## Title
-Using a smartphone as a 3D scanner, Chen Kong.
+Estimating Human Pose by A Few Clicks, Chen Kong.
 
 ## Summary
 In this project, I plan to utilize interest point detection, RANSAC and Tomasi-Kanade factorization algorithms to make a smartphone work as a 3D scanner. This projection is focusing on 3D reconstruction problem, more specifically Structure from Motion.
